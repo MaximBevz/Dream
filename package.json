@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
     "normalize.css": "^8.0.1",
     "slick-carousel": "^1.8.1"
   },
